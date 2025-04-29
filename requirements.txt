@@ -1,0 +1,10 @@
+streamlit>=1.20.0
+transformers>=4.36.0
+torch
+PyPDF2>=3.0.0
+pytesseract
+pdf2image
+reportlab
+python-docx
+requests
+Pillow
