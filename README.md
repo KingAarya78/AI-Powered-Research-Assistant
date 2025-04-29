@@ -48,8 +48,9 @@ pip install -r requirements.txt
 ### 4. Run the app
 streamlit run main.py
 
-<br>
+
 ![Login-Page](https://github.com/user-attachments/assets/744b63f5-e71d-4182-8ce0-4ad7557095a7)
+
 
 ---
 
