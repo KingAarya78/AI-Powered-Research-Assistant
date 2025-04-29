@@ -3,7 +3,10 @@ __pycache__/
 *.pyc
 *.py[cod]
 *$py.class
+
+# MacOS/Windows sytem files
 *.DS_Store
+Thumbs.db
 # C extensions
 *.so
 
