@@ -22,30 +22,30 @@ A Streamlit-based tool for searching academic papers, summarizing PDF research c
 
 ## 📝 How to Run (Windows)
 
-# 1. Create a virtual environment named 'venv'
+### 1. Create a virtual environment named 'venv'
 python -m venv venv
 
-# 2. Activate the virtual environment
+### 2. Activate the virtual environment
 venv\Scripts\activate
 
-# 3. Install all required packages
+### 3. Install all required packages
 pip install -r requirements.txt
 
-# 4. Run the app
+### 4. Run the app
 streamlit run main.py
 
 ## 📝 How to Run (Linus/Mac)
 
-# 1. Create a virtual environment named 'venv'
+### 1. Create a virtual environment named 'venv'
 python3 -m venv venv
 
-# 2. Activate the virtual environment
+### 2. Activate the virtual environment
 source venv/bin/activate
 
-# 3. Install all required packages
+### 3. Install all required packages
 pip install -r requirements.txt
 
-# 4. Run the app
+### 4. Run the app
 streamlit run main.py
 
 ---
