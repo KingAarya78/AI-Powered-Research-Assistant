@@ -11,7 +11,7 @@ A Streamlit-based tool for searching academic papers, summarizing PDF research c
 - **View History**: Saves History and Login Info.
 
 ## 💻 Technologies Used
-- Pyhton for coding
+- Python for coding
 - Streamlit for interactive web UI
 - Hugging Face Transformers (Summarization & QA)
 - PyTorch for backend running models
